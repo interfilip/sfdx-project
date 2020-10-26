@@ -1,0 +1,9 @@
+{
+  "orgName": "DreamHouse Realty",
+  "edition": "Developer",
+  "setting": {
+      "mobileSettings" : {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
